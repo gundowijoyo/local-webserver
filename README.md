@@ -26,8 +26,8 @@ Local Web Server adalah server web sederhana yang dibuat dengan Node.js untuk me
 2. **Clone repository ini** (jika belum).
 
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   https://github.com/gundowijoyo/local-webserver.git
+   cd local-webserver
    ```
 3 **Jalankan perintah**:
   ```
