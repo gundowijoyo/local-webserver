@@ -35,4 +35,8 @@ Local Web Server adalah server web sederhana yang dibuat dengan Node.js untuk me
  ```
 - Buka browser dan akses http://localhost:5000 untuk melihat daftar file di direktori public.
 
+## Donate
+- <a href="https://saweria.co/Gundo">visit saweria me</a>
+
+
 Terima kasih telah menggunakan Local Web Server. Semoga bermanfaat🤩!
